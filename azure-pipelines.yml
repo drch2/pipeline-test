@@ -3,3 +3,4 @@ jobs:
    steps:
    - script: echo hello world
      displayName: one-line script
+pr: none
