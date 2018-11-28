@@ -1,0 +1,5 @@
+jobs:
+ - job: some_job
+   steps:
+   - script: echo hello world
+     displayName: one-line script
