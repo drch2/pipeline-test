@@ -1,7 +1,5 @@
-trigger: none
 jobs:
  - job: some_job
    steps:
-   - script: echo hello world
+   - script: echo goodbye world
      displayName: one-line script
-pr: none
